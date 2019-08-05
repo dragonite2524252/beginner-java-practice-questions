@@ -1,2 +1,2 @@
-# hello-world
+# beginner-java-practice-questions
 practice questions
